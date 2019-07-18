@@ -5,10 +5,10 @@
 \__X \__/ |___ |___ | \| .__/ |___ /~~\ |__) 
 ```
 **QueensLab Evaluation Assignment**
-**Assignment description**
+============
 
 **Part 1 - Map Draw**
-
+------
 **Develop a backend + frontend solution that allows users to draw lines on a map of Gothenburg, Sweden.**
 
 The UI should have
@@ -36,3 +36,4 @@ Allowed technologies: Angular 2+, .NET Core, Python, NodeJS, React, Vue.js,
 Bootstrap, SCSS, SASS, LESS, CSS, HTML5, Vanilla JS.
 
 **Part 2**
+------
