@@ -4,7 +4,7 @@
 /  \ |  | |__  |__  |\ | /__` |     /\  |__) 
 \__X \__/ |___ |___ | \| .__/ |___ /~~\ |__) 
 ```
-**QueensLab Evaluation Assignment**
+**Evaluation Assignment**
 ============
 
 **Part 1 - Map Draw**
