@@ -1,12 +1,13 @@
-#QueensLab Evaluation Assignment
+
 ```
  __        ___  ___       __             __  
 /  \ |  | |__  |__  |\ | /__` |     /\  |__) 
 \__X \__/ |___ |___ | \| .__/ |___ /~~\ |__) 
 ```
-##Assignment description
+**QueensLab Evaluation Assignment**
+**Assignment description**
 
-###Part 1 - Map Draw
+**Part 1 - Map Draw**
 
 **Develop a backend + frontend solution that allows users to draw lines on a map of Gothenburg, Sweden.**
 
@@ -34,4 +35,4 @@ Functionality takes priority over design.
 Allowed technologies: Angular 2+, .NET Core, Python, NodeJS, React, Vue.js,
 Bootstrap, SCSS, SASS, LESS, CSS, HTML5, Vanilla JS.
 
-###Part 2
+**Part 2**
