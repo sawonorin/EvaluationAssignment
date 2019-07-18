@@ -32,8 +32,17 @@ Keep it simple.
 Try to ship as few bugs as possible. Focus on a minimal usable interface.
 Functionality takes priority over design.
 
-Allowed technologies: Angular 2+, .NET Core, Python, NodeJS, React, Vue.js,
+Allowed technologies: .NET Core, Python, NodeJS, React, Vue.js, Angular 2+
 Bootstrap, SCSS, SASS, LESS, CSS, HTML5, Vanilla JS.
 
 **Part 2**
 ------
+
+Open the appended project, analyze the code and respond to the following:
+
+- What do you believe is the requirements for this project?
+- Is there anything missing?
+- Is there anything you would have done differently?
+
+Good luck!
+(｡◕‿◕｡)
