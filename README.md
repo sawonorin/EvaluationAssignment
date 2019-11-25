@@ -68,7 +68,7 @@ Allowed technologies: .NET Core, Python, NodeJS.
 **Part 3**
 ------
 
-Open the appended project, analyze the code and respond to the following:
+Open the appended project (AvCalc), analyze the code and respond to the following:
 
 - What do you believe are the requirements for this project?
 - Is there anything missing?
