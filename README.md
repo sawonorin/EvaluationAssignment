@@ -14,7 +14,7 @@
 The UI should have
 
 - One Map (may be a 3rd party map)
-- One input field with a placeholder ‘DEGREES’, that only allow numbers (degrees)
+- One input field with a placeholder ‘DEGREES’, that only allow numbers in a degrees format
 - One button ‘MOVE’
 - One button ‘SAVE’
 - A list of saved patterns below the map.
@@ -32,8 +32,8 @@ Keep it simple.
 Try to ship as few bugs as possible. Focus on a minimal usable interface.
 Functionality takes priority over design.
 
-Allowed technologies: .NET Core, Python, NodeJS, React, Vue.js, Angular 2+
-Bootstrap, SCSS, SASS, LESS, CSS, HTML5, Vanilla JS.
+Allowed technologies: .NET Core, Python, NodeJS, React, Vue.js, Angular 2+,
+SCSS, SASS, LESS, PostCSS, CSS, HTML5, Vanilla JS.
 
 **Part 2 - Pricing calculator [Backend focus]**
 ------
