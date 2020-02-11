@@ -7,7 +7,7 @@
 **Code Challenge**
 ============
 
-**Part 1 - Algortithms**
+**Part 1 - Algorithms**
 
 **1.1**
 
