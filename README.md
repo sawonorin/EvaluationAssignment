@@ -4,7 +4,7 @@
 /  \ |  | |__  |__  |\ | /__` |     /\  |__) 
 \__X \__/ |___ |___ | \| .__/ |___ /~~\ |__) 
 ```
-**Evaluation Assignment**
+**Evaluation Assignment - Fullstack**
 ============
 
 **Part 1 - Map Draw [Frontend focus]**
