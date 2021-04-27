@@ -12,9 +12,9 @@ Det finns sensorer i butiken som registrerar när besökare kommer in och lämna
 Denna data skickas till ett web API i form av ett "ENTER" eller "EXIT"-anrop tillsammans med info om avdelning och timestamp.
 
 ## Uppgift
-Skapa det web API som håller koll på hur många besökare som finns i butiken.
+Skapa det web API som håller koll på hur många besökare det finns i butiken.
 
-**API:et ska ha stöd för att:**
+**API:et ska kunna:**
  - Ta emot info om besökare som kommer in och som lämnar en zon.
  - Lista alla zoner och antal besökare i varje zon.
  - Nollställa en zon.
@@ -24,10 +24,7 @@ Skapa det web API som håller koll på hur många besökare som finns i butiken.
 **Bonus:** Bygg en web-sida som visar upp aktuella stats besökare (valfri teknik)
 
 **Tips:**
-Keep it simple.
-Ha i åtanke testbarhet samt att kunna utöka protokoll för ingående trafik.
-Patterns: Hexagonal, Ports and adapters
-
+Keep it simple. Ha i åtanke testbarhet samt att kunna utöka protokoll för ingående trafik.
+**Patterns:** Hexagonal, Ports and adapters
 
 Lycka till!
-<¤.,¤>
