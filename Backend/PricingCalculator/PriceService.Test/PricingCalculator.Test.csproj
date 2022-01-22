@@ -17,11 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DataAccess\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\PricingCalculator\PricingService.csproj" />
+    <ProjectReference Include="..\PricingCalculator\PricingCalculator.csproj" />
   </ItemGroup>
 
 </Project>
